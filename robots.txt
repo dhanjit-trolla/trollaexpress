@@ -1,0 +1,9 @@
+User-agent: *
+Allow:
+Disallow: /registration/
+Disallow: /contact/
+Disallow: /login/
+Disallow: /kyc/
+Disallow: /administrator/
+Disallow: /kyc1/
+Disallow: /admin/
