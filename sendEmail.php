@@ -30,6 +30,7 @@
         $mail->Subject = ("$email ($subject)");
         $mail->Body = $message;
 
+        // 
         if ($mail->send()) {
             $status = "success";
             $response = "Email is sent!";
