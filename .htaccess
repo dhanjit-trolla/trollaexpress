@@ -4,6 +4,3 @@ RewriteEngine On
 RewriteCond %(REQUEST_FILENAME) !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
-RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} !^www\.trollaexpres\.com$ [NC]
-RewriteRule ^(.*)$ https://www.trollaexpress.com/$1 [L,R=301]
