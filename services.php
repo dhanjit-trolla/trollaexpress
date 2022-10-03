@@ -304,11 +304,12 @@ include("includes/config.php");
     </section>
     <section class="u-black u-clearfix u-section-3" id="sec-91ee">
       <div class="u-clearfix u-sheet u-sheet-1">
+          <a href="https://play.google.com/store/apps/details?id=com.trolla.seal.loader" target="_blank">
         <img class="u-image u-image-round u-radius-10 u-image-1" src="images/Google_Play_Store_badge_EN1.svg" alt="" data-image-width="5436" data-image-height="1604">
         <h3 class="u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1">
-          <span style="font-size: 1.5rem;">Our App is Coming Soon&nbsp;&nbsp;</span><span class="u-icon u-icon-1"><svg class="u-svg-content" viewBox="0 0 64 64" style="width: 1em; height: 1em;"><style type="text/css"> .st0{fill:currentColor;} </style><g><g id="Icon-Arrow-Left" transform="translate(28.000000, 328.000000)"><path class="st0" d="M4-272.1c-13.2,0-23.9-10.7-23.9-23.9S-9.2-319.9,4-319.9s23.9,10.7,23.9,23.9     S17.2-272.1,4-272.1L4-272.1z M4-317.3c-11.7,0-21.3,9.6-21.3,21.3s9.6,21.3,21.3,21.3s21.3-9.6,21.3-21.3S15.7-317.3,4-317.3     L4-317.3z" id="Fill-25"></path><polyline class="st0" id="Fill-26" points="3.5,-282.3 1.7,-284.2 13.4,-296 1.7,-307.8 3.5,-309.7 17.2,-296 3.5,-282.3    "></polyline><polygon class="st0" id="Fill-27" points="15.3,-294.6 -8.7,-294.6 -8.7,-297.4 15.3,-297.4    "></polygon>
+          <span style="font-size: 1.5rem;">Download our app&nbsp;&nbsp;</span><span class="u-icon u-icon-1"><svg class="u-svg-content" viewBox="0 0 64 64" style="width: 1em; height: 1em;"><style type="text/css"> .st0{fill:currentColor;} </style><g><g id="Icon-Arrow-Left" transform="translate(28.000000, 328.000000)"><path class="st0" d="M4-272.1c-13.2,0-23.9-10.7-23.9-23.9S-9.2-319.9,4-319.9s23.9,10.7,23.9,23.9     S17.2-272.1,4-272.1L4-272.1z M4-317.3c-11.7,0-21.3,9.6-21.3,21.3s9.6,21.3,21.3,21.3s21.3-9.6,21.3-21.3S15.7-317.3,4-317.3     L4-317.3z" id="Fill-25"></path><polyline class="st0" id="Fill-26" points="3.5,-282.3 1.7,-284.2 13.4,-296 1.7,-307.8 3.5,-309.7 17.2,-296 3.5,-282.3    "></polyline><polygon class="st0" id="Fill-27" points="15.3,-294.6 -8.7,-294.6 -8.7,-297.4 15.3,-297.4    "></polygon>
 </g>
-</g></svg><img></span>
+</g></svg><img></a></span>
         </h3>
       </div>
     </section>

@@ -299,10 +299,11 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
     </section>
     <section class="u-align-center u-black u-clearfix u-section-6" id="sec-a3fc">
       <div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://play.google.com/store/apps/details?id=com.trolla.seal.loader" target="_blank">
         <img class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-1" src="images/Google_Play_Store_badge_EN1.svg" alt="" data-image-width="5436" data-image-height="1604" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-direction="">
-        <h3 class="u-custom-font u-text u-text-default u-text-1" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-direction="">Our App is Comi<span style="font-weight: 700;"></span>ng Soon&nbsp;&nbsp;<span class="u-icon u-icon-1"><svg class="u-svg-content" viewBox="0 0 64 64" style="width: 1em; height: 1em;"><style type="text/css"> .st0{fill:currentColor;} </style><g><g id="Icon-Arrow-Left" transform="translate(28.000000, 328.000000)"><path class="st0" d="M4-272.1c-13.2,0-23.9-10.7-23.9-23.9S-9.2-319.9,4-319.9s23.9,10.7,23.9,23.9     S17.2-272.1,4-272.1L4-272.1z M4-317.3c-11.7,0-21.3,9.6-21.3,21.3s9.6,21.3,21.3,21.3s21.3-9.6,21.3-21.3S15.7-317.3,4-317.3     L4-317.3z" id="Fill-25"></path><polyline class="st0" id="Fill-26" points="3.5,-282.3 1.7,-284.2 13.4,-296 1.7,-307.8 3.5,-309.7 17.2,-296 3.5,-282.3    "></polyline><polygon class="st0" id="Fill-27" points="15.3,-294.6 -8.7,-294.6 -8.7,-297.4 15.3,-297.4    "></polygon>
+        <h3 class="u-custom-font u-text u-text-default u-text-1" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-direction="">Download our app<span style="font-weight: 700;"></span>&nbsp;&nbsp;<span class="u-icon u-icon-1"><svg class="u-svg-content" viewBox="0 0 64 64" style="width: 1em; height: 1em;"><style type="text/css"> .st0{fill:currentColor;} </style><g><g id="Icon-Arrow-Left" transform="translate(28.000000, 328.000000)"><path class="st0" d="M4-272.1c-13.2,0-23.9-10.7-23.9-23.9S-9.2-319.9,4-319.9s23.9,10.7,23.9,23.9     S17.2-272.1,4-272.1L4-272.1z M4-317.3c-11.7,0-21.3,9.6-21.3,21.3s9.6,21.3,21.3,21.3s21.3-9.6,21.3-21.3S15.7-317.3,4-317.3     L4-317.3z" id="Fill-25"></path><polyline class="st0" id="Fill-26" points="3.5,-282.3 1.7,-284.2 13.4,-296 1.7,-307.8 3.5,-309.7 17.2,-296 3.5,-282.3    "></polyline><polygon class="st0" id="Fill-27" points="15.3,-294.6 -8.7,-294.6 -8.7,-297.4 15.3,-297.4    "></polygon>
 </g>
-</g></svg><img></span>
+</g></svg><img></a></span>
         </h3>
       </div>
     </section>
