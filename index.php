@@ -35,6 +35,7 @@ include("includes/config.php");
     
     <!-----google analytics--->
   
+    <!-- changes -->
   </head>
   <body data-home-page="home" data-home-page-title="Home" class="u-body u-overlap u-overlap-contrast u-overlap-transparent"><header class="u-align-center-sm u-align-center-xs u-black u-clearfix u-header u-header" id="sec-cf8a"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="home" data-page-id="81999359" class="u-image u-logo u-image-1" data-image-width="2333" data-image-height="794" title="Home">
