@@ -1,11 +1,11 @@
 <?php
 include("includes/config.php");
-if($_SERVER["HTTPS"] != "on")
-{
-    header("Location: https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]);
-    exit();
-}
-?>
+// if($_SERVER["HTTPS"] != "on")
+// {
+//     header("Location: https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]);
+//     exit();
+// }
+// ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
   <head>
@@ -17,10 +17,10 @@ if($_SERVER["HTTPS"] != "on")
     <title>Home</title>
     <link rel="shortcut icon" href="assets/img/mono.png">
     <link rel="stylesheet" href="nicepage.css?v=<?= $version ?>" media="screen">
-<link rel="stylesheet" href="Home.css?v=<?= $version ?>" media="screen">
+    <link rel="stylesheet" href="Home.css?v=<?= $version ?>" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js?v=<?= $version ?>" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js?v=<?= $version ?>" defer=""></script>
-     <link rel="stylesheet" href="Home1.css?v=<?= $version ?>" media="screen">
+    <link rel="stylesheet" href="Home1.css?v=<?= $version ?>" media="screen">
     <!-- <script class="u-script" type="text/javascript" src="jquery1.js" defer=""></script> -->
     <!-- <script class="u-script" type="text/javascript" src="nicepage1.js" defer=""></script> -->
     
@@ -56,6 +56,7 @@ if($_SERVER["HTTPS"] != "on")
           <div class="u-custom-menu u-nav-container">
             <ul class="u-custom-font u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="about" style="padding: 10px;">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="services" style="padding: 10px;">Services</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="blogs" style="padding: 10px;">Blogs</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="contact" style="padding: 10px;">Contact</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="login" style="padding: 10px;">Login/Signup</a>
 </li></ul>
@@ -66,6 +67,7 @@ if($_SERVER["HTTPS"] != "on")
                 <div class="u-menu-close"></div>
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="about" style="padding: 10px;">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="services" style="padding: 10px;">Services</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="blog" style="padding: 10px;">Blogs</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="contact" style="padding: 10px;">Contact</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="login" style="padding: 10px;">Login/Signup</a>
 </li></ul>

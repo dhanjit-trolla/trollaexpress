@@ -52,6 +52,7 @@ include("includes/config.php");
           <div class="u-custom-menu u-nav-container">
             <ul class="u-custom-font u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="about" style="padding: 10px;">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="services" style="padding: 10px;">Services</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="blogs" style="padding: 10px;">Blogs</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="contact" style="padding: 10px;">Contact</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="login" style="padding: 10px;">Login/Signup</a>
 </li></ul>
@@ -62,6 +63,7 @@ include("includes/config.php");
                 <div class="u-menu-close"></div>
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="about" style="padding: 10px;">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="services" style="padding: 10px;">Services</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="blogs" style="padding: 10px;">Blogs</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="contact" style="padding: 10px;">Contact</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="login" style="padding: 10px;">Login/Signup</a>
 </li></ul>

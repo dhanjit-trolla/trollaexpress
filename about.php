@@ -12,7 +12,7 @@ include("includes/config.php");
     <title>About</title>
     <link rel="shortcut icon" href="assets/img/mono.png">
     <link rel="stylesheet" href="nicepage.css?v=<?= $version ?>" media="screen">
-<link rel="stylesheet" href="About.css?v=<?= $version ?>" media="screen">
+    <link rel="stylesheet" href="About.css?v=<?= $version ?>" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js?v=<?= $version ?>" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js?v=<?= $version ?>" defer=""></script>
      
@@ -51,6 +51,7 @@ include("includes/config.php");
           <div class="u-custom-menu u-nav-container">
             <ul class="u-custom-font u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="about" style="padding: 10px;">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="services" style="padding: 10px;">Services</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="blogs" style="padding: 10px;">Blogs</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="contact" style="padding: 10px;">Contact</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-custom-color-1 u-text-white" href="login" style="padding: 10px;">Login/Signup</a>
 </li></ul>
